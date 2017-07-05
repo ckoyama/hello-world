@@ -1,2 +1,3 @@
-# hello-world
-start
+#include <string>
+
+std::cout <<"HELLO WORLD";
